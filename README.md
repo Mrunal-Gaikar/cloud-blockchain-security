@@ -1,4 +1,4 @@
-# truffle-vue-guestbook
+# Cloud Blockchain Security
 
 ## Project setup
 ```
